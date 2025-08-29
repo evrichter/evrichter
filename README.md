@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Eva
 
 ### 👩‍💻 About Me
-I am a Data Analytics / Data Science trainee at Previsionz with an academic background in Language Science and Technology (M.Sc., Saarland University). My experience covers natural language processing, psycholinguistics, machine learning, and speech technology, gained through research projects, coursework, and working student roles. Before that, I completed a B.A. in Linguistics and Translation, where I first explored machine translation evaluation and developed a lasting interest in AI and language technology.  
+I am a **Data Analytics / Data Science Trainee** at Previsionz with an academic background in **Language Science and Technology** (M.Sc., Saarland University). My experience covers natural language processing, psycholinguistics, machine learning, and speech technology, gained through research projects, coursework, and working student roles. Before that, I completed a B.A. in **Linguistics and Translation**, where I first explored machine translation evaluation and developed a lasting interest in AI and language technology.  
 For more details, see my [personal website](https://evrichter.github.io).    
 
 ---
