@@ -11,3 +11,19 @@ Before my master’s, I obtained a Bachelor’s degree in Linguistics and Transl
 
 Ever since, I have been fascinated by how technology can process complex language and support communication and I am motivated to apply my knowledge and continue growing in the fields of language, data, and AI.
 
+---
+
+### 🔧 Technical Skills
+- **Languages:** Python, R, SQL 
+- **Data/NLP:** Pandas, NumPy, Scikit-Learn, SpaCy, NLTK, Hugging Face  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Other:** HTML, LaTeX, Git, Jupyter, Microsoft Azure (Data & Analytics), CAT Tools (Trados Studio, MemoQ)
+
+
+### Certifications
+
+### Languages 
+
+### Interests
+
+### How to reach me
