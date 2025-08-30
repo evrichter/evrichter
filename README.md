@@ -2,7 +2,6 @@
 
 ### 👩‍💻 About Me
 I am a graduate in **Language Science and Technology** (M.Sc., Saarland University). My experience covers natural language processing, psycholinguistics, machine learning, and speech technology, gained through research projects, coursework, and working student roles. Before that, I completed a B.A. in **Linguistics and Translation**, where I first explored machine translation evaluation and developed a lasting interest in AI and language technology.  
-For more details, see my [personal website](https://evrichter.github.io).    
 
 ---
 ### 🔧 Technical Skills
