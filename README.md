@@ -19,7 +19,8 @@ I am a graduate in **Language Science and Technology** (M.Sc., Saarland Universi
 ---
 ### 📜 Certificates
 - **Coursera:** Supervised Machine Learning · Advanced Learning Algorithms (Andrew Ng, Stanford/DeepLearning.AI)  
-- **DataCamp (R):** Cleaning Data · Data Visualization with ggplo2 · Bayesian Data Analysis · Logistic Regression · Mixed Effects Models 
+- **DataCamp (R):** Cleaning Data · Data Visualization with ggplo2 · Bayesian Data Analysis · Logistic Regression · Mixed Effects Models
+- **Microsoft:** Azure Data Fundamentals
 
 ---
 ### 🌍 Languages
