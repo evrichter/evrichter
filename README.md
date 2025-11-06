@@ -5,7 +5,7 @@ I am a graduate in **Language Science and Technology** (M.Sc., Saarland Universi
 
 ---
 ### 🔧 Technical Skills
-- **Languages:** Python, R, SQL 
+- **Languages:** Python, R
 - **Data/NLP:** Pandas, NumPy, Scikit-Learn, SpaCy, NLTK, Hugging Face  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Other:** HTML, LaTeX, Git, Jupyter, Microsoft Azure (Data & Analytics), CAT Tools (Trados Studio, MemoQ)
@@ -27,8 +27,7 @@ German 🇩🇪 (Native) · Turkish 🇹🇷 (Native) · English 🇬🇧 (C1) �
 
 ---
 ### ✨ Interests
-I am developing my skills in **data science and analytics**, including work with **cloud platforms such as Microsoft Azure**.  
-I also remain passionate about **cognitive NLP** and **multilingual NLP**, as well as the application of AI in **healthcare** and **education**.  
+I am passionate about **cognitive NLP** and **multilingual NLP**, as well as the application of AI in **healthcare** and **education**.  
 Beyond technology, I have a strong interests in learning **languages** and **cross-cultural exchange**, which inspire both my academic and personal journey. 🌍
 
 ---
