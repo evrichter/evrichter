@@ -35,4 +35,4 @@ Beyond technology, I have a strong interests in learning **languages** and **cro
 ### 📬 Contact
 - 📧 Email: [evri33@aol.de](mailto:evri33@aol.de)  
 - 💼 LinkedIn: [linkedin.com/in/eva-richter-b97340230](https://www.linkedin.com/in/eva-richter-b97340230)  
-- 🌐 Website: [evrichter.github.io](https://evrichter.github.io)  -
+- 🌐 Website: [evrichter.github.io](https://evrichter.github.io)  
