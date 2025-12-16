@@ -19,7 +19,7 @@ I am a graduate of the M.Sc. program in **Language Science and Technology** at S
 ---
 ### 📜 Certificates
 - **Coursera:** Supervised Machine Learning · Advanced Learning Algorithms (Stanford/DeepLearning.AI)  
-- **DataCamp (R):** Cleaning Data · Data Visualization with ggplo2 · Bayesian Data Analysis · Logistic Regression · Mixed Effects Models
+- **DataCamp (R):** Cleaning Data · Data Visualization with ggplot2 · Bayesian Data Analysis · Logistic Regression · Mixed Effects Models
 - **Microsoft:** Azure Data Fundamentals (DP-900)
 
 ---
