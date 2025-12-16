@@ -8,7 +8,7 @@ I am a graduate in **Language Science and Technology** (M.Sc., Saarland Universi
 - **Languages:** Python, R
 - **Data/NLP:** Pandas, NumPy, Scikit-Learn, SpaCy, NLTK, Hugging Face  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Other:** HTML, LaTeX, Git, Jupyter, Microsoft Azure (Data & Analytics), CAT Tools (Trados Studio, MemoQ)
+- **Other:** HTML, LaTeX, Git, Jupyter, CAT Tools (Trados Studio, MemoQ)
 
 ---
 ### 📂 Projects & Experience Highlights
@@ -18,9 +18,9 @@ I am a graduate in **Language Science and Technology** (M.Sc., Saarland Universi
 
 ---
 ### 📜 Certificates
-- **Coursera:** Supervised Machine Learning · Advanced Learning Algorithms (Andrew Ng, Stanford/DeepLearning.AI)  
+- **Coursera:** Supervised Machine Learning · Advanced Learning Algorithms (Stanford/DeepLearning.AI)  
 - **DataCamp (R):** Cleaning Data · Data Visualization with ggplo2 · Bayesian Data Analysis · Logistic Regression · Mixed Effects Models
-- **Microsoft:** Azure Data Fundamentals
+- **Microsoft:** Azure Data Fundamentals (DP-900)
 
 ---
 ### 🌍 Languages
