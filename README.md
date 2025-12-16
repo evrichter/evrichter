@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm Eva
 
 ### 👩‍💻 About Me
-I am a graduate in **Language Science and Technology** (M.Sc., Saarland University). My experience covers natural language processing, psycholinguistics and speech technology, gained through coursework and projects. Before that, I completed a B.A. in **Linguistics and Translation**, where I first explored machine translation evaluation and developed a lasting interest in AI and language technology.  
-
+I am a graduate of the M.Sc. program in **Language Science and Technology** at Saarland University. My experience covers natural language processing, psycholinguistics and speech technology, gained through coursework and projects. Before that, I completed a B.A. in **Linguistics and Translation**, where I was first introduced to machine translation, which sparked a broader interest in NLP, AI, and language technology.
 ---
 ### 🔧 Technical Skills
-- **Languages:** Python, R
+- **Languages:** Python, R, SQL
 - **Data/NLP:** Pandas, NumPy, Scikit-Learn, SpaCy, NLTK, Hugging Face  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Other:** HTML, LaTeX, Git, Jupyter, CAT Tools (Trados Studio, MemoQ)
@@ -35,4 +34,4 @@ Beyond technology, I have a strong interests in learning **languages** and **cro
 ### 📬 Contact
 - 📧 Email: [evri33@aol.de](mailto:evri33@aol.de)  
 - 💼 LinkedIn: [linkedin.com/in/eva-richter-b97340230](https://www.linkedin.com/in/eva-richter-b97340230)  
-<!-- - 🌐 Website: [evrichter.github.io](https://evrichter.github.io)  -->
+- 🌐 Website: [evrichter.github.io](https://evrichter.github.io)  -
