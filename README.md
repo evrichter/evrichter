@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Eva
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me 
 I am a graduate of the M.Sc. program in **Language Science and Technology** at Saarland University. My experience covers natural language processing, psycholinguistics and speech technology, gained through coursework and projects. Before that, I completed a B.A. in **Linguistics and Translation**, where I was first introduced to machine translation, which sparked a broader interest in NLP, AI, and language technology.
+
 ---
 ### 🔧 Technical Skills
 - **Languages:** Python, R, SQL
