@@ -28,7 +28,7 @@ German 🇩🇪 (Native) · Turkish 🇹🇷 (Native) · English 🇬🇧 (C1) �
 
 ---
 ### ✨ Interests
-I am passionate about **cognitive NLP** and **multilingual NLP**, as well as the application of AI in **healthcare** and **education**.  
+Alongside data science and data analytics methods, I am particularly interested in **cognitive** and **multilingual NLP**, as well as the application of **AI in healthcare**.
 Beyond technology, I have a strong interests in learning **languages** and **cross-cultural exchange**, which inspire both my academic and personal journey. 🌍
 
 ---
